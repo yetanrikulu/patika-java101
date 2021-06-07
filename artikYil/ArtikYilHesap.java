@@ -11,7 +11,7 @@ public class ArtikYilHesap {
         System.out.print("Yıl Giriniz : ");
         year = scanner.nextInt();
 
-        //4e bölünme
+
         if (year%4 == 0)
         {
             if (year % 100 == 0)
